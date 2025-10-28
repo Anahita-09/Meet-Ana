@@ -182,3 +182,61 @@ audio {
 
 
 /* BackPack */
+
+#my-bag {
+  text-align: center;
+  margin: 60px auto;
+  padding: 20px;
+  font-family: 'Poppins', sans-serif;
+}
+
+#bag-instructions {
+  margin-bottom: 15px;
+  color: #555;
+}
+
+#bag {
+  width: 200px;
+  cursor: pointer;
+  transition: transform 0.3s;
+}
+
+#bag:hover {
+  transform: scale(1.05);
+}
+
+#click-items {
+  display: none;
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+}
+
+.bagItem {
+  width: 100px;
+  background: #f9f9f9;
+  border-radius: 8px;
+  padding: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.bagItem:hover {
+  background: #ad3b3b;
+  transform: scale(1.07);
+}
+
+#item-info {
+  margin: 25px auto 0;
+  padding: 15px;
+  max-width: 600px;
+  background: #cbe1cc;
+  border-radius: 10px;
+}
+
+#item-info h1 {
+  color: #1b3526;
+  margin-bottom: 8px;
+}
