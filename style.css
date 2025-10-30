@@ -159,13 +159,15 @@ nav ul {
 
 .project-card {
   background-color: #a2b2a3;
-  border: 5px solid #ddd;
+  border: 5px solid #928989;
   border-radius: 12px;
   padding: 16px;
   box-shadow: 0 4px 6px rgba(0,0,0,0.1);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
   text-align: center;
   margin: 25px;
+  margin-left: 200px;
+  margin-right: 200px;
 }
 
 .project-card img {
@@ -309,3 +311,4 @@ audio {
 .note {
   text-align: center;
 }
+
