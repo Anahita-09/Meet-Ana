@@ -10,14 +10,14 @@ var itemInfo = document.getElementById("item-info");
 itemInfo.style.display = "none";
 
 var laptop =document.getElementById("laptop");
-var wallet = document.getElementById("wallet");
+var drink = document.getElementById("drink");
 var keychains = document.getElementById("keychains");
 var headphones = document.getElementById("headphones");
-var woodenBox = document.getElementById("woodenBox");
+var tablet = document.getElementById("tablet");
 var phone = document.getElementById("phone");
 var cake = document.getElementById("cake");
 
-var bagItem = [laptop, wallet, keychains, headphones, woodenBox, phone, cake];
+var bagItem = [laptop, drink, keychains, headphones, tablet, phone, cake];
 
 function showBagItems() {
     console.log("bag clicked");
@@ -39,10 +39,10 @@ function showBagItems() {
 }
 
 laptop.addEventListener("click", function showLaptopInfo() {
-    itemInfo.innerHTML = "<h1>Laptop</h1><p></p>";
+    itemInfo.innerHTML = "<h1>Laptop</h1><p>♾️ This is my Asus Zenbook (I don't believe in building an Apple environment).</p>";
 });
-wallet.addEventListener("click", function showWalletInfo() {
-    itemInfo.innerHTML = "<h1>Wallet</h1><p>♾️ My wallet contains the flower my boyfriend gave me.</p>";
+drink.addEventListener("click", function showDrinkInfo() {
+    itemInfo.innerHTML = "<h1>Drink</h1><p>♾️ This is my fav drink - Mocha Frappe from Tim Hortons. It's a must try</p>";
 });
 keychains.addEventListener("click", function showKeychainsInto() {
     itemInfo.innerHTML = "<h1>Keychains</h1><p> ♾️ I'm very emotionally connected to these keychains given by my boyfriend. Backstory - I lost one of them once, and he brought the exact same one for me again <3</p>";
@@ -50,8 +50,8 @@ keychains.addEventListener("click", function showKeychainsInto() {
 headphones.addEventListener("click", function showHeadphonesInfo() {
     itemInfo.innerHTML = "<h1>Headphones</h1><p>♾️ Sony Headphones! I usually listen to Punjabi songs on this (Though I barely understand them).</p>";
 });
-woodenBox.addEventListener("click", function showWoodenBoxInfo () {
-    itemInfo.innerHTML = "<h1>Wooden Box</h1><p>♾️ My Boyfriend made this box for me, it has our ship name written on it.</p>";
+tablet.addEventListener("click", function showTabletInfo () {
+    itemInfo.innerHTML = "<h1>Tablet</h1><p>♾️ recently received this tablet from the Athena Award OMG!</p>";
 });
 phone.addEventListener("click", function showPhoneInfo () {
     itemInfo.innerHTML = "<h1>Phone</h1><p>♾️ My phone case represents my hope to fly back to India soon.</p>";
