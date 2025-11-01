@@ -80,7 +80,7 @@ header.home {
   left: 50%;
   transform: translate(-50%, -50%);
 
-  width: 200%;
+  width: 222%;
   height: 200vh;
   padding: 40px;
 
@@ -115,6 +115,19 @@ nav ul {
   display: flex;
   gap: 25px;
   flex-wrap: wrap;
+}
+
+nav a {
+  color: #5f3b28;
+  font-weight: 600;
+  padding: 6px 10px;
+  border-radius: 6px;
+  transition: 0.3 ease;
+}
+
+nav a:hover {
+  background-color: #a2b2a3;
+  color: white;
 }
 
 /* Style home page boxes */
@@ -502,7 +515,7 @@ audio {
   text-align: center;
 }
 
-.textimonials-grid {
+.testimonials-grid {
   display: grid;
   grid-template-columns: repeat(2,1fr);
   gap: 18px;

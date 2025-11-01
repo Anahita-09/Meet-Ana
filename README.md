@@ -3,10 +3,10 @@
 
 Hi! Welcome to my first portfolio website.
 I built this website to showcase my projects, awards, interests and activities.
-It also includes my song covers and my favorite anime & dramas. (The song covers are the art I made for this website and the journal for it is at the end of the READ.me)
+It also includes my song covers and my favorite anime & dramas.
 
 # Coolest Feature
-My About page includes a very cool backpack feature (inspired by Jana). When you click on the backpack displ, items appear and clicking item shows a description of it.
+My About page includes a very cool backpack feature (inspired by Jana). When you click on the backpack displ, items appevar and clicking item shows a description of it.
 
 # Landing page
 The home page is custom made on canva and it has a beautiful background in the back.
@@ -17,6 +17,9 @@ The home page is custom made on canva and it has a beautiful background in the b
 - Song convers of songs in multiple languages
 - Styled boxes, header and footer
 - Icons in the footer that link to my email, github and linkedin.
+
+# Prospective Idea
+In the portfolio page of the website, I describe my prospective hardware project idea. Which I'm making in my school's Incubator class. I explain my idea and also included a few frequently asked question.
 
 # Stack
 I built this website using HTML, CSS and Javascript and I'm so proud of how the project has turned out.
@@ -42,4 +45,4 @@ Throughout and before the session, I made some videos to practice before startin
 Below I am attaching a compilation I made at the end of my sessions, enjoy!. To listen to the final versions, please go my website Meet-Ana. 
 
 # Recordings
-![Video Recoridng](assets/video.mp3)
+![Video Recoridng](assets/video.mp4)
