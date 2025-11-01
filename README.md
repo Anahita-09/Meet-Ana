@@ -1,24 +1,28 @@
 [![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
 # Meet-Ana <3
 
-Hey this is my portfolio website, the very first one. I created it to create a display of my projects, awards, interests and activities. The interests page include my song covers, and anime & drama favorites. The website is created using HTML, CSS and Javascript. 
+Hi! Welcome to my first portfolio website.
+I built this website to showcase my projects, awards, interests and activities.
+It also includes my song covers and my favorite anime & dramas. (The song covers are the art I made for this website and the journal for it is at the end of the READ.me)
 
 # Coolest Feature
-My About page includes a very cool backpack feature (inspired from Jana) which when clicked on displays items in my backpack and when the items are clicked, a description of the items pops up.
+My About page includes a very cool backpack feature (inspired by Jana). When you click on the backpack displ, items appear and clicking item shows a description of it.
 
 # Landing page
 The home page is custom made on canva and it has a beautiful background in the back.
 
-# Features
+# ⭐ Features
 - Interactive backpack
-- Hyperlinks to projects and websites
-- Song convers of songs of different languages
-- Styles boxes, header and footer
+- Hyperlinks to my projects and external sites
+- Song convers of songs in multiple languages
+- Styled boxes, header and footer
 - Icons in the footer that link to my email, github and linkedin.
 
-# Website Visual
-![alt text](assets/ss.png)
+# Stack
+I built this website using HTML, CSS and Javascript and I'm so proud of how the project has turned out.
 
+# Website Visual
+![Website ScreenShot](assets/ss.png)
 
 ## Music Covers Journal - October 20, 2025
 
@@ -35,6 +39,7 @@ During this last session I recorded the last song "Jeena Jeena" by Atif Aslam, t
 
 Throughout and before the session, I made some videos to practice before starting and also to track my progress on playing the song properly. The notes helped me a lot in being able to learn and record all these songs in such a short amount of time. 
 
-Below I am attaching some of my practice recordings. To listen to the final versions, please go my website Meet-Ana. 
+Below I am attaching a compilation I made at the end of my sessions, enjoy!. To listen to the final versions, please go my website Meet-Ana. 
 
 # Recordings
+![Video Recoridng](assets/video.mp3)
