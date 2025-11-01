@@ -1,4 +1,4 @@
-/* Page */
+/* Main page layout styling */
 body {
  background-color: #fffbf5; 
 }
@@ -22,7 +22,7 @@ h1, h2, h3, h4 {
   text-align: center;
 }
 
-/* Style portfolio cards */
+/* Styling for portfolio cards */
 
 .project-name {
   font-size: 1.3em;
@@ -61,8 +61,7 @@ h1, h2, h3, h4 {
   padding: 20px;
 }
 
-
-/* Style nav bar */
+/* Styling for the navigation bar */
 
 header {
   display: flex;
@@ -99,7 +98,6 @@ header.home nav {
   margin-top: 230px;
   font-size: 2em;
 }
-
 
 header.home nav a {
   color: #463535;
@@ -143,7 +141,7 @@ nav a:hover {
 
 .card {
   background-color: #a2b2a3;
-  border: 2px solid #ddd;
+  border: 2px solid #928989;
   border-radius: 12px;
   padding: 16px;
   box-shadow: 0 4px 6px rgba(0,0,0,0.1);
@@ -193,7 +191,6 @@ nav a:hover {
   flex: 1;
 }
 
-
 .project-card {
   background-color: #a2b2a3;
   border: 5px solid #928989;
@@ -215,7 +212,7 @@ nav a:hover {
   box-sizing: border-box;
 }
 
-/* Interests Page */
+/* Interests Page Styling */
 
 .interest-grid {
   display: grid;
@@ -227,7 +224,7 @@ nav a:hover {
 .interest-box {
   background-color: #a2b2a3;
   border-radius: 10px;
-  border: 2px solid #ddd;
+  border: 2px solid #928989;
   padding: 15px;
   text-align: center;
   box-shadow: 0 4px 6px rgba(0,0,0,0.1);
@@ -264,7 +261,7 @@ audio {
 .anime-box {
   background-color: #a2b2a3;
   border-radius: 10px;
-  border: 2px solid #ddd;
+  border: 2px solid #928989;
   padding: 15px;
   text-align: center;
   box-shadow: 0 4px 6px rgba(0,0,0,0.1);
@@ -300,7 +297,7 @@ audio {
 .drama-box {
   background-color: #a2b2a3;
   border-radius: 10px;
-  border: 2px solid #ddd;
+  border: 2px solid #928989;
   padding: 15px;
   text-align: center;
   box-shadow: 0 4px 6px rgba(0,0,0,0.1);
@@ -336,7 +333,7 @@ audio {
 .food-box {
   background-color: #a2b2a3;
   border-radius: 10px;
-  border: 2px solid #ddd;
+  border: 2px solid #928989;
   padding: 15px;
   text-align: center;
   box-shadow: 0 4px 6px rgba(0,0,0,0.1);
@@ -362,7 +359,7 @@ audio {
   box-sizing: border-box;
 }
 
-/* About */
+/* About page styling */
 
 .about-images {
   display: flex;
@@ -384,10 +381,16 @@ audio {
   width: 250px;
   height: auto;
   border-radius: 12px;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  border: 4px solid #5f3b28;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+  transition: 0.3 ease;
 }
 
-/* BackPack */
+.about-img:hover {
+  transform: scale(1.05);
+}
+
+/* Backpack styling */
 
 #my-bag {
   text-align: center;
@@ -470,7 +473,7 @@ audio {
   color: #000;
 }
 
-/* About section activties */
+/* About section activties styling */
 
 .activities {
   margin-top: 60px;
@@ -488,7 +491,7 @@ audio {
   background: #a2b2a3;
   padding: 18px;
   border-radius: 10px;
-  border: 2px solid #ddd;
+  border: 2px solid #928989;
   box-shadow: 0 0 8px rgba(0,0,0,0.12);
   transition: 0.2s;
 }
@@ -526,7 +529,7 @@ audio {
   background: #a2b2a3;
   padding: 18px;
   border-radius: 10px;
-  border: 2px solid #ddd;
+  border: 2px solid #928989;
   box-shadow: 0 0 8px rgba(0,0,0,0.12);
   transition: 0.2s;
 }
@@ -564,7 +567,7 @@ audio {
   background: #a2b2a3;
   padding: 18px;
   border-radius: 10px;
-  border: 2px solid #ddd;
+  border: 2px solid #928989;
   box-shadow: 0 0 8px rgba(0,0,0,0.12);
   transition: 0.2s;
 }
@@ -573,7 +576,3 @@ audio {
   transform: translateY(-5px);
   box-shadow: 0 0 14px rgba(0,0,0,0.12);
 }
-
-
-
-
