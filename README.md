@@ -31,7 +31,7 @@ I built this website using HTML, CSS and Javascript and I'm so proud of how the 
 
 # Total time: 5 hours (20% art time of the total project time)
 
-# 11:00am - 1:00pm: 
+11:00am - 1:00pm: 
 I started recording with "Kal Ho Naa Ho" by Sonu Nigam. Since this song is a lengthy one it took some time to get familiarized with the notes and play it in a rhythm. So I recorded a few trial clips first to make sure everything is playing so=moothly and then recorded the final version.
 
 2:00pm - 4:00pm
